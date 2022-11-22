@@ -1,0 +1,92 @@
+@charset "utf-8";
+.PRINCIPALPRINCIPAL .cabecera {
+    width: 116%;
+    height: 225px;
+    /* [disabled]background-color: #1AA6B7; */
+    color: #FFFFFF;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-bottom: 6px;
+    margin-top: 9px;
+}
+.PRINCIPALPRINCIPAL .cabecera img {
+    margin-bottom: 9px;
+    margin-right: -13px;
+    margin-left: -23px;
+}
+
+.PRINCIPALPRINCIPAL .menu {
+    width: 95%;
+    height: 61px;
+    color: #FFFFFF;
+    font-size: 26pt;
+    border-radius: 7px;
+    margin-top: 6px;
+    margin-right: 10px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    background-color: #FF414D;
+    font-family: "MADE TOMMY";
+    font-variant: small-caps;
+    text-align: justify;
+    font-style: oblique;
+}
+.PRINCIPALPRINCIPAL .menu a {
+    margin-left: 73px;
+    color: #FFFFFF;
+    border-radius: 5px;
+    margin-right: -3px;
+}
+
+.PRINCIPALPRINCIPAL .menu_lateral {
+    width: 40%;
+    background-color: #3AF5DB;
+    height: 300px;
+    margin-top: 6px;
+    float: left;
+    margin-bottom: 8px;
+}
+.PRINCIPALPRINCIPAL .publicacion {
+    width: 59%;
+    background-color: #B91CCF;
+    float: right;
+    margin-top: 6px;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.PRINCIPALPRINCIPAL .pie_pagina {
+    width: 100%;
+    height: 60px;
+    background-color: #002D40;
+    clear: both;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: "MADE TOMMY";
+    font-style: oblique;
+    text-align: center;
+    font-size: 12pt;
+    /* [disabled]list-style-position: outside; */
+}
+.PRINCIPALPRINCIPAL .pie_pagina img {
+    margin-top: 9px;
+    margin-bottom: 5px;
+    float: none;
+    clear: none;
+    right: 10px;
+    margin-right: 4px;
+    margin-left: 500px;
+}
+.row .col-lg-4 article {
+    font-size: 30px;
+    width: 100%;
+    background-color: #002D40;
+    color: #D9ECF2;
+    height: 250px;
+    margin-bottom: 10px;
+    font-family: "MADE TOMMY", "MADE TOMMY Outline";
+    padding-left: 12px;
+    padding-right: 4px;
+    padding-top: 21px;
+}
